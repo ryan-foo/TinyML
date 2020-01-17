@@ -43,7 +43,7 @@ Milestone 6: On-device learning, where the model is tuned and refined based on t
 
 ## Resources
 
-Big inspiration from [Pete Warden and Daniel Situnayake's work on TinyML.]([https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043])
+Big inspiration from [Pete Warden and Daniel Situnayake's work on TinyML.](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 
 [Sequence Models, Andrew Ng, Week 3 - Trigger Word Detection](https://www.youtube.com/watch?v=Zqx_hbTmN6A)
 
