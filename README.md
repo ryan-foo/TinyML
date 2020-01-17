@@ -8,8 +8,8 @@ Keywords (ha ha): Hot Word Detection, Wake Word Detection, Trigger Word Detectio
 
 #### [Introduction](https://github.com/ryan-foo/TinyML/blob/master/README.md#introduction)
 #### [Guiding Questions]((https://github.com/ryan-foo/TinyML/blob/master/README.md#guiding-questions)
-#### [Milestones]((https://github.com/ryan-foo/TinyML/blob/master/README.md#milestones)
-#### [Resources]((https://github.com/ryan-foo/TinyML/blob/master/README.md#resources)
+#### [Milestones](https://github.com/ryan-foo/TinyML/blob/master/README.md#milestones)
+#### [Resources](https://github.com/ryan-foo/TinyML/blob/master/README.md#resources)
 
 ## Introduction
 
